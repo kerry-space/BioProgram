@@ -1,0 +1,15 @@
+/Users/kerryspace/Desktop/c#-fullstack/BioProgram/bin/Debug/net6.0/BioProgram
+/Users/kerryspace/Desktop/c#-fullstack/BioProgram/bin/Debug/net6.0/BioProgram.deps.json
+/Users/kerryspace/Desktop/c#-fullstack/BioProgram/bin/Debug/net6.0/BioProgram.runtimeconfig.json
+/Users/kerryspace/Desktop/c#-fullstack/BioProgram/bin/Debug/net6.0/BioProgram.dll
+/Users/kerryspace/Desktop/c#-fullstack/BioProgram/bin/Debug/net6.0/BioProgram.pdb
+/Users/kerryspace/Desktop/c#-fullstack/BioProgram/obj/Debug/net6.0/BioProgram.csproj.AssemblyReference.cache
+/Users/kerryspace/Desktop/c#-fullstack/BioProgram/obj/Debug/net6.0/BioProgram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kerryspace/Desktop/c#-fullstack/BioProgram/obj/Debug/net6.0/BioProgram.AssemblyInfoInputs.cache
+/Users/kerryspace/Desktop/c#-fullstack/BioProgram/obj/Debug/net6.0/BioProgram.AssemblyInfo.cs
+/Users/kerryspace/Desktop/c#-fullstack/BioProgram/obj/Debug/net6.0/BioProgram.csproj.CoreCompileInputs.cache
+/Users/kerryspace/Desktop/c#-fullstack/BioProgram/obj/Debug/net6.0/BioProgram.dll
+/Users/kerryspace/Desktop/c#-fullstack/BioProgram/obj/Debug/net6.0/refint/BioProgram.dll
+/Users/kerryspace/Desktop/c#-fullstack/BioProgram/obj/Debug/net6.0/BioProgram.pdb
+/Users/kerryspace/Desktop/c#-fullstack/BioProgram/obj/Debug/net6.0/BioProgram.genruntimeconfig.cache
+/Users/kerryspace/Desktop/c#-fullstack/BioProgram/obj/Debug/net6.0/ref/BioProgram.dll
